@@ -2,7 +2,7 @@
 
 This repository serves as the companion code and resources for the Udemy course, "Complete Hands-On Introduction to Airbyte."
 
-About the Course:
+#### About the Course:
 
 This course offers a comprehensive learning experience for anyone interested in mastering Airbyte, the open-source data integration engine.
 
